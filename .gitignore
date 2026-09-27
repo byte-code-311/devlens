@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+*.db
+*.egg-info/
+*.tsbuildinfo
+dist/
+.superpowers/
